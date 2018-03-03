@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3,
+    "name": "City Loft MM",
+    "description": "New residential project with 12 towers times 12 stories.",
+    "created_at": "2018-02-10T12:00:00.000Z",
+    "updated_at": "2018-02-10T10:22:00.000Z",
+    "image": {
+      "url": "http://res.cloudinary.com/duvzrhfdo/image/upload/v1518391247/VE8xk7/yuImW2g%3D%3D.jpg",
+      "thumbnail": { "url": "http://res.cloudinary.com/duvzrhfdo/image/upload/c_fit,h_50,w_50/v1518391247/VE8xk7/yuImW2g%3D%3D.jpg" }
+    },
+    "sort": null
+  },
+  {
+    "id": 2,
+    "name": "Deutches Haus",
+    "description": "Intellegam honestatis et his, an ubique admodum vim. Est dolores sapientem voluptatibus ut. Mei at oblique percipitur, at tota civibus per, ex nibh scribentur quo. Agam clita sanctus his ad. Sit harum oratio id.\r\n\r\nIllud omnes ius at, ea nec percipitur contentiones definitionem, te etiam accusamus assentior has. Per in virtute accusata, id qui nullam iriure integre. Eu modus adolescens interpretaris eos, ne esse invidunt lobortis has. Cum legere noluisse ne. Animal urbanitas efficiantur at ius, option vocibus gubergren ut pro, cum iudico ancillae conceptam ea. Sea ridens semper vivendo ea.\r\n\r\nVim iusto aliquip omittam ad, equidem dignissim te sed. Tamquam senserit mel ei, ei mei mucius possit alterum, ex cibo menandri necessitatibus vix. Iusto feugait ut eos, in debitis feugait nam, ferri simul mei ei. Cibo suscipit pertinax sed no, id mel homero labores. Te quo altera persequeris, quod salutandi definitiones ex pro.\r\n\r\nPosse oblique democritum sea te. Primis melius philosophia te sed, cu animal appetere eam, ea nec democritum adversarium suscipiantur. Mutat maiorum efficiendi eu per, mea exerci ignota erroribus ex. Latine viderer ex pri. Omnium legendos suscipiantur vel at. Cu mel saepe eirmod urbanitas, cu vis augue tation mentitum.\r\n\r\nOdio laboramus delicatissimi ea ius, aeterno placerat an ius. Saepe labores sea ad. Rebum blandit ei mea, ea posse corpora menandri mel. Ea elit melius sit, quo sint partem nostrum te.\r\n\r\nAliquid delicata an nam, dolor menandri signiferumque eu eos, vocent integre an nam. Antiopam consulatu omittantur vix ea, ad ius wisi erant insolens. Agam dolorum quo ne, ad sea paulo labores, cu eos deleniti mnesarchum. Qui id nisl vero autem, et has agam possim iuvaret. Vidit viris corrumpit ei duo, ne mel munere ignota.\r\n",
+    "created_at": "2018-02-08T23:05:00.000Z",
+    "updated_at": "2018-02-09T10:30:00.000Z",
+    "image": {
+      "url": "http://res.cloudinary.com/duvzrhfdo/image/upload/v1518391150/kObMMEOJW5XlBg%3D%3D.jpg",
+      "thumbnail": { "url": "http://res.cloudinary.com/duvzrhfdo/image/upload/c_fit,h_50,w_50/v1518391150/kObMMEOJW5XlBg%3D%3D.jpg" }
+    },
+    "sort": null
+  },
+  {
+    "id": 5,
+    "name": "Indochine Warehouse",
+    "description": "Test",
+    "created_at": "2018-02-21T07:41:15.758Z",
+    "updated_at": "2018-02-21T07:41:15.758Z",
+    "image": {
+      "url": null,
+      "thumbnail": { "url": null }
+    },
+    "sort": null
+  },
+  {
+    "id": 1,
+    "name": "Park Hyatt",
+    "description": "His amet populo assueverit ut, est sumo nonumy impetus ut. Nihil denique forensibus sit ne. Graeci appetere per cu. Odio civibus sententiae sit te, gubergren rationibus constituto ut has.\r\n\r\nEros iudico epicuri quo an, mucius accumsan eam ei, saepe delenit perpetua mei ei. Ei esse velit mel. Nec at alii eleifend, liber quidam necessitatibus quo in, sed at munere commodo. Ea mucius nostrud vis.",
+    "created_at": "2018-02-25T12:00:00.000Z",
+    "updated_at": "2018-02-11T23:18:00.000Z",
+    "image": {
+      "url": "http://res.cloudinary.com/duvzrhfdo/image/upload/v1518391133/VKB4GYB6DF1Vjg%3D%3D.jpg",
+      "thumbnail": { "url": "http://res.cloudinary.com/duvzrhfdo/image/upload/c_fit,h_50,w_50/v1518391133/VKB4GYB6DF1Vjg%3D%3D.jpg" }
+    },
+    "sort": null
+  }
+]
