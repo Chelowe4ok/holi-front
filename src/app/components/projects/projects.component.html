@@ -35,7 +35,7 @@
   <div class="album py-5 bg-light">
     <div class="container">
 
-      <div class="row"  [dragula]='"bag-one"' [dragulaModel]='project' >
+      <div class="row"  [dragula]='"bag-one"' [dragulaModel]='projects' >
         <div class="col-md-4" *ngFor="let project of projects; let i = index" >
           <div class="card mb-4 box-shadow">
             <img class="card-img-top" data-src="{{project.image.thumbnail.url}}" alt="" style="height: 225px; width: 100%; display: block;" data-holder-rendered="true">

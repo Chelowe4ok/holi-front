@@ -27,10 +27,10 @@ export class ProjectsComponent implements OnInit {
   ];
   listOne: Array<string> = ['Coffee', 'Orange Juice', 'Red Wine', 'Unhealty drink!', 'Water'];
   configur: Object = { 'dragHandle': '.handle', 'col': 1, 'row': 1, 'sizex': 1, 'sizey': 1 };
-  private boxes: Array<Project> = [];
-  private rgb: string = '#efefef';
-  private curNum;
-  private gridConfig: NgGridConfig = <NgGridConfig>{
+  public boxes: Array<Project> = [];
+  public rgb: string = '#efefef';
+  public curNum;
+  public gridConfig: NgGridConfig = <NgGridConfig>{
     'margins': [5],
     'draggable': true,
     'resizable': false,
