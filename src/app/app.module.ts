@@ -4,9 +4,7 @@ import { NgModule } from '@angular/core';
 import { HttpClientModule } from '@angular/common/http';
 import { AppComponent } from './app.component';
 import { ProjectsComponent } from './components/projects/projects.component';
-import { NgGridModule } from 'angular2-grid';
-import { DragulaModule } from 'ng2-dragula';
-import {DndModule} from 'ng2-dnd';
+import { SortablejsModule } from 'angular-sortablejs';
 // Components
 
 
@@ -18,9 +16,7 @@ import {DndModule} from 'ng2-dnd';
   imports: [
     BrowserModule,
     HttpClientModule,
-    NgGridModule,
-    DragulaModule,
-    DndModule.forRoot()
+    SortablejsModule.forRoot({ animation: 150 })
   ],
   providers: [],
   bootstrap: [AppComponent]
