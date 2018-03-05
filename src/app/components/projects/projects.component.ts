@@ -67,7 +67,7 @@ export class ProjectsComponent implements OnInit {
       })
     };
     //assets/data/projects.json
-    this.http.get<any>('http://dev.qp.heritageorient.com/api/v1/projects', httpOptions).subscribe(data => this.projects = data);
+    this.http.get<any>('https://qualityprocess-development.herokuapp.com/api/v1/projects', httpOptions).subscribe(data => this.projects = data);
   }
 
 }
